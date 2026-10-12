@@ -1,0 +1,6 @@
+interface:
+  display_name: "国企新闻稿写作"
+  short_description: "核验会议资料、提炼正式工作语言，起草和修改中文国企调研、座谈与合作交流新闻稿"
+  default_prompt: "使用 $soe-news-writing，核对所提供资料和适用写作规则，按发布主体及渠道起草或修改国企新闻稿。"
+policy:
+  allow_implicit_invocation: true
